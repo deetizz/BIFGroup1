@@ -1,0 +1,7 @@
+threshold,model,cutoff,bloom_weeks,TP,FN,FP,TN,precision,recall,F1,cost,onsets,onsets_caught,PR_AUC,ROC_AUC
+P90_train,LogisticRegression (G_4feat),0.6,4,2,2,2,72,0.5,0.5,0.5,12,2,0,0.3297,0.9122
+P90_train,Persistence,,4,2,2,2,72,0.5,0.5,0.5,12,2,0,0.2756,0.7365
+P90_train,Never_bloom,,4,0,4,0,74,0.0,0.0,0.0,20,2,0,,
+Fixed_10,RandomForest (G_4feat),0.79,3,1,2,2,73,0.3333,0.3333,0.3333,12,3,1,0.2621,0.9156
+Fixed_10,Persistence,,3,0,3,3,72,0.0,0.0,0.0,18,3,0,0.0385,0.48
+Fixed_10,Never_bloom,,3,0,3,0,75,0.0,0.0,0.0,15,3,0,,

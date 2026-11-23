@@ -1,0 +1,6 @@
+,standard_units,standard_units,standard_units,standard_units,standard_units,standard_units,real_units,real_units,real_units,real_units,real_units,real_units
+,Temp,Phosphate,Silicate,Nitrite,Ammonium,Nitrate,Temp,Phosphate,Silicate,Nitrite,Ammonium,Nitrate
+cluster,,,,,,,,,,,,
+Type 1,-1.291,1.595,1.214,4.91,1.508,2.832,14.447,0.564,5.72,0.189,2.671,3.366
+Type 2,-0.615,0.48,0.361,-0.158,0.19,0.19,16.306,0.328,3.459,0.001,0.777,0.468
+Type 3,0.946,-0.785,-0.592,-0.175,-0.381,-0.486,20.603,0.104,1.821,0.0,0.298,0.11

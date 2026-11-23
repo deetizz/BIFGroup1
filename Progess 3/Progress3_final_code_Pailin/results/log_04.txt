@@ -1,0 +1,2 @@
+Small network: lowest validation loss 0.553 at epoch 399; at epoch 400: train 0.332, validation 0.553
+Large network: lowest validation loss 0.411 at epoch 16; at epoch 400: train 0.013, validation 0.954

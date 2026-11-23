@@ -1,0 +1,13 @@
+slide 5: best LinearRegression 3.88 vs persistence 4.73 -> 18% lower
+slide 6 cost, 4 inputs: {'LogisticRegression': 32, 'RandomForest': 37, 'SVM': 38, 'MLP': 42} | persistence 36 | never bloom 50
+slide 8 regression test:
+                        model  RMSE_mgm3
+LinearRegression (G_cv3_chl)       3.60
+                 Persistence       4.54
+                Train_median       3.84
+             Seasonal_median       3.83
+slide 8 bloom test:
+                        model  F1  ROC_AUC  onsets_caught  onsets
+LogisticRegression (G_4feat) 0.5     0.91              0       2
+                 Persistence 0.5     0.74              0       2
+                 Never_bloom 0.0      NaN              0       2

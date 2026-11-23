@@ -1,0 +1,4 @@
+cluster,weeks,Temp,Phosphate,Silicate,Nitrite,Ammonium,Nitrate,bloom_weeks,bloom_rate
+Type 1,17,14.4,0.52,5.1,0.17,1.7,3.71,4,0.235
+Type 2,292,16.15,0.29,3.4,0.0,0.57,0.36,33,0.113
+Type 3,213,20.3,0.13,1.9,0.0,0.3,0.0,14,0.066
